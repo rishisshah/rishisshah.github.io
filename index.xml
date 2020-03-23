@@ -6,10 +6,20 @@
     <description>Recent content on Rishi Shah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2020 15:45:03 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 18:06:13 -0700</lastBuildDate>
     
 	<atom:link href="https://rishisshah.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://rishisshah.github.io/posts/</link>
+      <pubDate>Sun, 22 Mar 2020 18:06:13 -0700</pubDate>
+      
+      <guid>https://rishisshah.github.io/posts/</guid>
+      <description>Hello World! - March 22, 2020 My life has come to this I guess; scrolling through Zoom/quarantine memes, watching Michael Reeves scream at his microwave, and yelling at my own laptop wondering why it won&amp;rsquo;t render my code.
+These past two weeks have been a double-edged sword for me. While classes and finals were cancelled, all Los Angeles/Orange County gyms are shut down and a long-planned, out-of-state, vacation is down the drain.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -29,6 +39,15 @@ In my free time, I love listening to different genres of music, reading, browsin
       
       <guid>https://rishisshah.github.io/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://rishisshah.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishisshah.github.io/projects/</guid>
+      <description>Project (Click image for more info) Description      A minimalist, static blog hosted by Github Pages. Created using Hugo, Markdown, and HTML/CSS. The Contact Us page is powered by Formspree.    A developer tool to perform static and dynamic code analysis on a target .exe. Metrics analyzed include processes created, hardware resources consumed, network activity, database connections, and system files and registry modification.</description>
     </item>
     
   </channel>
